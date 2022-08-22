@@ -1,0 +1,97 @@
+.desktopNavbar {
+  display: flex;
+  /* flex-wrap: wrap; */
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+}
+
+.logo {
+  /* height: 10%; */
+  width: 100px;
+  padding: 10px;
+  padding-top: 20px;
+  margin-left: 20px;
+}
+
+.second {
+  display: inherit;
+}
+
+.third {
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+  margin-right: 50px;
+}
+
+.register {
+  padding: 0 30px;
+  border-radius: 12px;
+  border: 1px solid var(--Ablack);
+  background-color: var(--Awhite);
+}
+
+.mobilelogo {
+  display: none;
+}
+.mobileNavOptions {
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+  .desktopNavbar {
+    display: none;
+  }
+  .mobilelogo {
+    display: inline-flex;
+    width: 60%;
+  }
+  .mobileNavOptions {
+    display: inline-flex;
+    flex-direction: column;
+    width: 40%;
+    position: absolute;
+    top: 1.5%;
+  }
+  .removeTop {
+    top: 0%;
+  }
+  .mobileNavLinksdisable {
+    display: none;
+  }
+  .mobileNavLinksenable {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: white;
+    border: 1px solid var(--Ablack);
+  }
+  .mobileButton {
+    border: 0px;
+    background-color: white;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: auto;
+  }
+  .mobileButtondisable {
+    display: none;
+  }
+  .mobilelogo {
+    align-self: flex-start;
+  }
+  .mRegister {
+    padding: 10px 20px;
+  }
+  .mobileLinksAlign {
+    align-self: flex-start;
+  }
+  .Login {
+    font-size: 14px;
+    padding: 10px;
+    font-weight: normal;
+  }
+}

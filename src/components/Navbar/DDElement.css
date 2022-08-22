@@ -1,0 +1,19 @@
+.DDElement {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  gap: 5px;
+  font-size: 14px;
+}
+
+.DDText {
+  font-weight: normal;
+  font-size: 1em;
+}
+
+.DDIcon {
+  height: 30%;
+  width: 20%;
+  text-align: center;
+}
