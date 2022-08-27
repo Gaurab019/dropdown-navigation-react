@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dropdown-navigation-react/static/css/main.6b45e3f9.css",
-    "main.js": "/dropdown-navigation-react/static/js/main.c49b069f.js",
+    "main.css": "/dropdown-navigation-react/static/css/main.0ba1b931.css",
+    "main.js": "/dropdown-navigation-react/static/js/main.0ea95f2a.js",
     "static/js/787.71612928.chunk.js": "/dropdown-navigation-react/static/js/787.71612928.chunk.js",
     "static/media/heroDesktop.png": "/dropdown-navigation-react/static/media/heroDesktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/dropdown-navigation-react/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
@@ -11,15 +11,20 @@
     "static/media/client-meet.svg": "/dropdown-navigation-react/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
     "static/media/client-audiophile.svg": "/dropdown-navigation-react/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
     "index.html": "/dropdown-navigation-react/index.html",
+    "static/media/reminders.svg": "/dropdown-navigation-react/static/media/reminders.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/planning.svg": "/dropdown-navigation-react/static/media/planning.7264cc64a81fa348da1d23defa87d2b5.svg",
+    "static/media/calendar.svg": "/dropdown-navigation-react/static/media/calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/todo.svg": "/dropdown-navigation-react/static/media/todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
     "static/media/icon-close-menu.svg": "/dropdown-navigation-react/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
     "static/media/icon-menu.svg": "/dropdown-navigation-react/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
     "static/media/iconADown.svg": "/dropdown-navigation-react/static/media/iconADown.bebf05132571af33611ede9cdfdbed0f.svg",
-    "main.6b45e3f9.css.map": "/dropdown-navigation-react/static/css/main.6b45e3f9.css.map",
-    "main.c49b069f.js.map": "/dropdown-navigation-react/static/js/main.c49b069f.js.map",
+    "static/media/iconAUp.svg": "/dropdown-navigation-react/static/media/iconAUp.01861a1152dfab5f1070228d306352f4.svg",
+    "main.0ba1b931.css.map": "/dropdown-navigation-react/static/css/main.0ba1b931.css.map",
+    "main.0ea95f2a.js.map": "/dropdown-navigation-react/static/js/main.0ea95f2a.js.map",
     "787.71612928.chunk.js.map": "/dropdown-navigation-react/static/js/787.71612928.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b45e3f9.css",
-    "static/js/main.c49b069f.js"
+    "static/css/main.0ba1b931.css",
+    "static/js/main.0ea95f2a.js"
   ]
 }
